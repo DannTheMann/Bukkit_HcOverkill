@@ -1,0 +1,17 @@
+name: HcOverkill
+version: 1.2
+main: me.danslayerx.overkill.Main
+author: danslayerx
+description: Overkill Essentials.
+commands:
+   setbb:
+      description: Bedrock Base command.
+   clearbb:
+      description: Clear all mobs in upperClass.
+   near:
+      description: Nearby players.
+   name:
+      description: Name an item.    
+   na:
+      description: Name an item.        
+      
